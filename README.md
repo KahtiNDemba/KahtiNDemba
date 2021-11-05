@@ -1,2 +1,1 @@
-- 👋  Hi, I’m @KahtiNDemba
-- I'm building www.indstry.io
+
