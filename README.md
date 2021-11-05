@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @KahtiNDemba
-- I'm building www.indstry.io [www.indstry.io]
+- I'm building www.indstry.io
